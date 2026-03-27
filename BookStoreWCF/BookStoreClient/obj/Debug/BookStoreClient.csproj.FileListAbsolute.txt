@@ -1,0 +1,13 @@
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\bin\Debug\BookStoreClient.exe.config
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\bin\Debug\BookStoreClient.exe
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\bin\Debug\BookStoreClient.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.csproj.AssemblyReference.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.Properties.Resources.resources
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.csproj.GenerateResource.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.csproj.CoreCompileInputs.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStor.2D1845A4.Up2Date
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.exe
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreClient\obj\Debug\BookStoreClient.Form1.resources

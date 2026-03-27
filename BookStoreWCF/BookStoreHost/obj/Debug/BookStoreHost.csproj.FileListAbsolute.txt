@@ -1,0 +1,15 @@
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreHost.exe.config
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreHost.exe
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreHost.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreService.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\EntityFramework.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreService.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\BookStoreService.dll.config
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\EntityFramework.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\obj\Debug\BookStoreHost.csproj.AssemblyReference.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\obj\Debug\BookStoreHost.csproj.CoreCompileInputs.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\obj\Debug\BookStor.33483D7D.Up2Date
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\obj\Debug\BookStoreHost.exe
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreHost\obj\Debug\BookStoreHost.pdb

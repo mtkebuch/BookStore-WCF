@@ -1,0 +1,17 @@
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.csproj.AssemblyReference.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.csproj.CoreCompileInputs.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\BookStoreService.dll.config
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\BookStoreService.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\BookStoreService.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\EntityFramework.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\EntityFramework.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStor.793E7674.Up2Date
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.dll
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.pdb
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.Migrations.InitialCreate.resources
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.csproj.GenerateResource.cache
+C:\Users\Mylaptop.ge\source\repos\BookStoreWCF\BookStoreService\obj\Debug\BookStoreService.Migrations.ChangeDateToString.resources

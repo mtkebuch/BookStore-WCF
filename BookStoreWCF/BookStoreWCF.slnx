@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BookStoreClient/BookStoreClient.csproj" Id="730e7157-8bdc-4696-8f42-a2339cca9ede" />
+  <Project Path="BookStoreHost/BookStoreHost.csproj" Id="0e04d3b5-0a54-4f44-9823-bd0fd4f4c7b7" />
+  <Project Path="BookStoreService/BookStoreService.csproj" Id="d67e0679-1ac9-4467-af17-dd5f431e5377" />
+</Solution>
